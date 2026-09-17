@@ -13,7 +13,7 @@
 # limitations under the License.
 # ==============================================================================
 
-# Bring in all of the public TensorFlow interface into this
+# Bring in all of the public TensorFlow interface into this 
 # module.
 
 # pylint: disable=g-bad-import-order
